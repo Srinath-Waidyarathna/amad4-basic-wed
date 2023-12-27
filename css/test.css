@@ -1,0 +1,28 @@
+.img{
+    height: 100px;
+    width: 100px;
+    margin-left: 50%;
+}
+.input{
+    padding: 0.5%;
+    width: 300px;
+    border-radius: 50px;
+    border: 1px solid rgb(7, 7, 6);
+    margin-left: 50%;
+}
+.btn{
+    padding: 0.5%;
+    width: 100px;
+    border-radius: 50px;
+    color: white;
+    background-color: black;
+    align-content: center;
+    margin-left: 56%;
+
+    
+}
+.p{
+    margin-left: 55%;
+    font-weight: bold;
+    font-size: medium;
+}

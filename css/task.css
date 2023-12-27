@@ -1,0 +1,44 @@
+.div{
+    height: 150px;
+    width: 150px;
+    background-color: blueviolet;
+    border-radius: 100px;
+    position: absolute;
+    margin-top: 387px; 
+    margin-left: 875px;
+    
+}
+.d1{
+    height: 150px;
+    width: 150px;
+    background-color: blueviolet;
+    border-radius: 100px;
+    position: absolute;
+    margin-left: 1750px;
+
+}
+.d2{
+    height: 150px;
+    width: 150px;
+    background-color: blueviolet;
+    border-radius: 100px;
+    position: absolute;
+    margin-top: 775px;
+}
+.d3{
+    height: 150px;
+    width: 150px;
+    background-color: blueviolet;
+    border-radius: 100px;
+    position: absolute;
+    margin-top: 775px;
+    margin-left: 1750px;
+}
+.d4{
+    height: 150px;
+    width: 150px;
+    background-color: blueviolet;
+    border-radius: 100px;
+    position: absolute;
+    
+}
